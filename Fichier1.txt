@@ -1,2 +1,3 @@
 Fichier type n°1 
 Créé manuellement dans Notepad 
+Ajout d'un texte source de conflit
