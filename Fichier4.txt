@@ -1,0 +1,2 @@
+Fichier type n°4
+Crée via la console - nano
